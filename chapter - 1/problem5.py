@@ -21,3 +21,5 @@ def list_directory_contents(path):
 # Replace 'your_directory_path' with the path to the directory you want to list
 your_directory_path = 'C:/Users/saive/OneDrive/Desktop/python practice'
 list_directory_contents(your_directory_path)
+
+#check
